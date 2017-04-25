@@ -121,7 +121,7 @@
         <!-- ============================================== -->
 
         <!-- ============================================== -->
-        <!-- MISC. CROSS CUTTERS [PROJECT LOMBOK] -->
+        <!-- MISC. CROSS CUTTING [PROJECT LOMBOK] -->
         <!-- ============================================== -->
         <dependency>
                 <groupId>org.projectlombok</groupId>

@@ -30,13 +30,13 @@ public class User implements UserDetails {
 
     //region CONSTRUCTORS
     public User() {}
-    public User(String emailAddress, String username, String password, String firstName, String lastName, String[] grandtedAuthorities) {
+    public User(String emailAddress, String username, String password, String firstName, String lastName, String[] grantedAuthorities) {
         this.emailAddress = emailAddress;
         this.username = username;
         this.password = password;
         this.firstName = firstName;
         this.lastName = lastName;
-        this.grantedAuthorities = AuthorityUtils.createAuthorityList(grandtedAuthorities);
+        this.grantedAuthorities = AuthorityUtils.createAuthorityList(grantedAuthorities);
     }
 
     public User(String username,String password,String[] authorities) {

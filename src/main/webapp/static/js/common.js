@@ -1,5 +1,3 @@
-//test: merge changes
-
 $('document').ready(function () {
 
     var userId = $('#userId').attr('value');
