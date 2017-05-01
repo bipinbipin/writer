@@ -10,13 +10,13 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-@Document
-@Data
+@Document //MongoDB equivalent of @Entity
+@Data //Lombok project handles all getters, setters, and default constructor
 public class Note {
     
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    private BigInteger id;
+    private BigInteger id; //MongoDB auto-generated ids are 29 chars long
 
     private String title;
     private String body;

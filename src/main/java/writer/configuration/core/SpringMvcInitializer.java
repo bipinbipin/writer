@@ -6,6 +6,7 @@ import writer.configuration.MvcConfiguration;
 /**
  * Created by Arianna.Raduechel on 3/24/2017.
  */
+
 public class SpringMvcInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
 
     @Override
