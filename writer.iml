@@ -44,6 +44,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/groovy" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
@@ -131,5 +132,8 @@
     <orderEntry type="library" name="Maven: org.webjars:bootstrap:3.3.4" level="project" />
     <orderEntry type="library" name="Maven: org.webjars:jquery:2.1.4" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.projectlombok:lombok:1.16.14" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.spockframework:spock-core:1.1-groovy-2.4-rc-3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: cglib:cglib-nodep:3.1" level="project" />
+    <orderEntry type="library" name="groovy-2.4.10" level="application" />
   </component>
 </module>

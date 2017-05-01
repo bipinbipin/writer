@@ -30,9 +30,9 @@
         </dependency>
 
         <dependency>
-        <groupId>org.springframework.data</groupId>
-        <artifactId>spring-data-mongodb</artifactId>
-        <version>1.10.1.RELEASE</version>
+            <groupId>org.springframework.data</groupId>
+            <artifactId>spring-data-mongodb</artifactId>
+            <version>1.10.1.RELEASE</version>
         </dependency>
 
         <dependency>
@@ -124,10 +124,28 @@
         <!-- MISC. CROSS CUTTING [PROJECT LOMBOK] -->
         <!-- ============================================== -->
         <dependency>
-                <groupId>org.projectlombok</groupId>
-                <artifactId>lombok</artifactId>
-                <version>1.16.14</version>
-                <scope>provided</scope>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.16.14</version>
+            <scope>provided</scope>
+        </dependency>
+        <!-- ============================================== -->
+
+        <!-- ============================================== -->
+        <!-- SPOCK TESTING -->
+        <!-- ============================================== -->
+        <dependency>
+            <groupId>org.spockframework</groupId>
+            <artifactId>spock-core</artifactId>
+            <version>1.1-groovy-2.4-rc-3</version>
+            <scope>test</scope>
+        </dependency>
+        <!-- To mock classes: -->
+        <dependency>
+            <groupId>cglib</groupId>
+            <artifactId>cglib-nodep</artifactId>
+            <version>3.1</version>
+            <scope>test</scope>
         </dependency>
         <!-- ============================================== -->
     </dependencies>
@@ -138,6 +156,21 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+            <!-- The gmavenplus plugin is used to compile Groovy code. To learn more about this plugin,
+            visit https://github.com/groovy/GMavenPlus/wiki -->
+            <plugin>
+                <groupId>org.codehaus.gmavenplus</groupId>
+                <artifactId>gmavenplus-plugin</artifactId>
+                <version>1.5</version>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>compile</goal>
+                            <goal>testCompile</goal>
+                        </goals>
+                    </execution>
+                </executions>
             </plugin>
         </plugins>
     </build>
