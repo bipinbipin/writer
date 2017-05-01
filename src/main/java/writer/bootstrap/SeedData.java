@@ -21,6 +21,7 @@ import java.util.List;
  * Created by Arianna.Raduechel on 3/20/2017.
  */
 
+//changes for test 2
 @Component
 public class SeedData implements ApplicationListener<ContextRefreshedEvent> {
 
