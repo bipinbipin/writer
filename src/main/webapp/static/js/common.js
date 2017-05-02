@@ -294,11 +294,11 @@ $('document').ready(function () {
         document.getElementById("logoutForm").submit();
     });
 
+    //region Big Huge Thesaurus API
     $('#search-button').click(function () {
-        //Big Huge Thesaurus API
         //http://words.bighugelabs.com/api/{version}/{api key}/{word}/{format}
         var version = "2";
-        //todo: make this a private variable!!
+        //todo: make this a private variable
         var apiKey = "42d1acd705871a94027df91abc176426";
         var word = $('#search-input').val();
 
@@ -328,6 +328,7 @@ $('document').ready(function () {
         });
 
     });
+    //endregion
 
     $('#clear-search').click(function () {
         getAllNotes();
@@ -373,4 +374,5 @@ $('document').ready(function () {
         });
     });
     //endregion
+
 });

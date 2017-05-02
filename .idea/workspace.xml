@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cc7977b-7d27-45e4-b2d8-e412f89e8e05" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/groovy/writer/CustomUserDetailsServiceTests.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_spockframework_spock_core_1_1_groovy_2_4_rc_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/writer.iml" afterPath="$PROJECT_DIR$/writer.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/writer/CustomUserDetailsServiceTests.class" afterPath="$PROJECT_DIR$/target/test-classes/writer/CustomUserDetailsServiceTests.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/static/js/common.js" afterPath="$PROJECT_DIR$/src/main/webapp/static/js/common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="writer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,36 +27,101 @@
     <favorites_list name="writer" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.45179948">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="CustomUserDetailsService.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/writer/services/impl/CustomUserDetailsService.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.4848485">
-                  <caret line="30" column="93" selection-start-line="30" selection-start-column="93" selection-end-line="30" selection-end-column="93" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="CustomUserDetailsServiceTests.groovy" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/test/groovy/writer/CustomUserDetailsServiceTests.groovy">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.57575756">
-                  <caret line="27" column="71" selection-start-line="27" selection-start-column="71" selection-end-line="27" selection-end-column="71" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="NoteRest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/writer/rest/NoteRest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="37" column="76" selection-start-line="37" selection-start-column="76" selection-end-line="37" selection-end-column="76" />
+              <folding>
+                <element signature="docComment;class#NoteRest#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.42712843">
+              <caret line="307" column="32" selection-start-line="307" selection-start-column="32" selection-end-line="307" selection-end-column="32" />
+              <folding>
+                <element signature="e#203#346#0" expanded="false" />
+                <element signature="e#427#475#0" expanded="false" />
+                <element signature="e#524#1085#0" expanded="false" />
+                <element signature="e#677#772#0" expanded="false" />
+                <element signature="e#778#871#0" expanded="false" />
+                <element signature="e#1136#1542#0" expanded="false" />
+                <element signature="e#1548#1583#0" expanded="false" />
+                <element signature="e#1614#1955#0" expanded="false" />
+                <element signature="e#1650#1906#0" expanded="false" />
+                <element signature="e#1803#1871#0" expanded="false" />
+                <element signature="e#1912#1949#0" expanded="false" />
+                <element signature="e#1978#2016#0" expanded="false" />
+                <element signature="e#2164#2309#0" expanded="false" />
+                <element signature="e#2239#2301#0" expanded="false" />
+                <element signature="e#2356#2405#0" expanded="false" />
+                <element signature="e#2452#2903#0" expanded="false" />
+                <element signature="e#2611#2675#0" expanded="false" />
+                <element signature="e#2831#2895#0" expanded="false" />
+                <element signature="e#2927#2958#0" expanded="false" />
+                <element signature="e#2996#3026#0" expanded="false" />
+                <element signature="e#3057#3290#0" expanded="false" />
+                <element signature="e#3313#3363#0" expanded="false" />
+                <element signature="e#3390#3420#0" expanded="false" />
+                <element signature="e#3442#3494#0" expanded="false" />
+                <element signature="e#3522#4573#0" expanded="false" />
+                <element signature="e#3642#3946#0" expanded="false" />
+                <element signature="e#3823#3936#0" expanded="false" />
+                <element signature="e#4055#4565#0" expanded="false" />
+                <element signature="e#4110#4553#0" expanded="false" />
+                <element signature="e#4596#4624#0" expanded="false" />
+                <element signature="e#4690#5512#0" expanded="false" />
+                <element signature="e#4779#5091#0" expanded="false" />
+                <element signature="e#4968#5081#0" expanded="false" />
+                <element signature="e#5194#5503#0" expanded="false" />
+                <element signature="e#5536#5554#0" expanded="false" />
+                <element signature="e#5595#5675#0" expanded="false" />
+                <element signature="e#5710#6453#0" expanded="false" />
+                <element signature="e#5742#6447#0" expanded="false" />
+                <element signature="e#5844#6251#0" expanded="false" />
+                <element signature="e#6112#6237#0" expanded="false" />
+                <element signature="e#6358#6435#0" expanded="false" />
+                <element signature="e#6475#6495#0" expanded="false" />
+                <element signature="e#6538#7181#0" expanded="false" />
+                <element signature="e#6587#6956#0" expanded="false" />
+                <element signature="e#6833#6946#0" expanded="false" />
+                <element signature="e#7055#7120#0" expanded="false" />
+                <element signature="e#7205#7229#0" expanded="false" />
+                <element signature="e#7272#9383#0" expanded="false" />
+                <element signature="e#7283#7312#0" expanded="false" />
+                <element signature="e#7360#7513#0" expanded="false" />
+                <element signature="e#7558#7711#0" expanded="false" />
+                <element signature="e#7784#8094#0" expanded="false" />
+                <element signature="e#8128#9375#0" expanded="false" />
+                <element signature="e#8153#8492#0" expanded="false" />
+                <element signature="e#8554#8926#0" expanded="false" />
+                <element signature="e#8743#8866#0" expanded="false" />
+                <element signature="e#8982#9363#0" expanded="false" />
+                <element signature="e#9437#9532#0" expanded="false" />
+                <element signature="e#10273#10740#0" expanded="false" />
+                <element signature="e#10468#10548#0" expanded="false" />
+                <element signature="e#10649#10729#0" expanded="false" />
+                <element signature="e#10810#10840#0" expanded="false" />
+                <element signature="e#10848#10868#0" expanded="false" />
+                <element signature="e#10916#12246#0" expanded="false" />
+                <element signature="e#11084#11400#0" expanded="false" />
+                <element signature="e#11277#11390#0" expanded="false" />
+                <element signature="e#11509#12238#0" expanded="false" />
+                <element signature="e#11549#12103#0" expanded="false" />
+                <element signature="e#11608#12087#0" expanded="false" />
+                <element signature="e#12109#12228#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -131,7 +195,6 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/includes/navbar.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/includes/nav-sidebar.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/static/js/common.js" />
         <option value="$PROJECT_DIR$/src/main/java/writer/domain/User.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/writer/domain/Note.java" />
@@ -141,6 +204,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/groovy/writer/CustomUserDetailsServiceTests.java" />
         <option value="$PROJECT_DIR$/src/test/groovy/writer/CustomUserDetailsServiceTests.groovy" />
+        <option value="$PROJECT_DIR$/src/main/webapp/static/js/common.js" />
       </list>
     </option>
   </component>
@@ -278,9 +342,9 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -438,6 +502,70 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="writer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="writer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="writer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="writer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -806,7 +934,7 @@
       <recent name="writer" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CustomUserDetailsServiceTests">
+  <component name="RunManager" selected="Spring Boot.Application">
     <configuration default="false" name="UserRepositoryTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -1269,8 +1397,8 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CustomUserDetailsServiceTests" />
-        <item index="1" class="java.lang.String" itemvalue="Spring Boot.Application" />
+        <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CustomUserDetailsServiceTests" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.UserRepositoryTests" />
       </list>
     </recent_temporary>
@@ -1310,7 +1438,9 @@
       <workItem from="1493164655869" duration="228000" />
       <workItem from="1493165224328" duration="569000" />
       <workItem from="1493651992818" duration="3563000" />
-      <workItem from="1493661212948" duration="2225000" />
+      <workItem from="1493661212948" duration="2414000" />
+      <workItem from="1493748599603" duration="2159000" />
+      <workItem from="1493751936026" duration="256000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1493147998863</created>
@@ -1334,7 +1464,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="245642000" />
+    <option name="totallyTimeSpent" value="248246000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
@@ -1353,7 +1483,7 @@
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24357326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="-478" y="31" width="461" height="673" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26863754" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="-478" y="31" width="461" height="673" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1481,13 +1611,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/writer/services/InspirationService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54359674">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/static/css/bootswatch_solar.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1162.8966">
@@ -1523,11 +1646,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/images/notepage.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/writer/rest/UserRest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34196186">
@@ -1539,20 +1657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.82857144">
           <caret line="65" column="1" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="50" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/css/hamburgers.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -1573,18 +1677,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32740214">
-          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/writer/Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.66728973">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1603,63 +1699,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/writer/domain/Note.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/writer/repositories/NoteRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="72" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/writer/services/NoteService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="76" selection-start-line="31" selection-start-column="76" selection-end-line="31" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/writer/services/impl/NoteServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.5151515">
-          <caret line="70" column="56" selection-start-line="70" selection-start-column="56" selection-end-line="70" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#727#728#0" expanded="false" />
-            <element signature="e#774#775#0" expanded="false" />
-            <element signature="e#1049#1050#0" expanded="false" />
-            <element signature="e#1098#1099#0" expanded="false" />
-            <element signature="e#1158#1159#0" expanded="false" />
-            <element signature="e#1212#1213#0" expanded="false" />
-            <element signature="e#2776#2777#0" expanded="false" />
-            <element signature="e#2824#2825#0" expanded="false" />
-            <element signature="e#2913#2914#0" expanded="false" />
-            <element signature="e#2969#2970#0" expanded="false" />
-            <element signature="e#3257#3263#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/writer/rest/NoteRest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.18181819">
-          <caret line="37" column="76" selection-start-line="37" selection-start-column="76" selection-end-line="37" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/writer/configuration/MongoConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4099099">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
           <folding />
         </state>
       </provider>
@@ -1671,64 +1714,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/writer/configuration/core/SpringMvcInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3030303">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#399#400#0" expanded="false" />
-            <element signature="e#460#461#0" expanded="false" />
-            <element signature="e#528#529#0" expanded="false" />
-            <element signature="e#555#556#0" expanded="false" />
-            <element signature="e#616#617#0" expanded="false" />
-            <element signature="e#659#660#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/writer/configuration/core/SpringSecurityInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21212122">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/writer/configuration/CustomUserDetailsSecurityConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.121212125">
-          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1143#1144#0" expanded="false" />
-            <element signature="e#1196#1197#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/writer/configuration/RepositoryConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3783784">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/writer/controllers/IndexController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.54545456">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/includes/nav-sidebar.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.4512744">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/includes/head.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.40929535">
@@ -1737,51 +1722,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5982009">
-          <caret line="19" column="100" selection-start-line="19" selection-start-column="100" selection-end-line="19" selection-end-column="100" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/writer/UserRepositoryTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.30259365">
           <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/writer/bootstrap/SeedData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.014409222">
-          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-          <folding>
-            <element signature="docComment;class#SeedData#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/writer/services/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09221902">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-            <element signature="e#707#708#0" expanded="true" />
-            <element signature="e#760#761#0" expanded="true" />
-            <element signature="e#809#810#0" expanded="true" />
-            <element signature="e#870#871#0" expanded="true" />
-            <element signature="e#924#925#0" expanded="true" />
-            <element signature="e#993#994#0" expanded="true" />
-            <element signature="e#1059#1060#0" expanded="true" />
-            <element signature="e#1714#1715#0" expanded="true" />
-            <element signature="e#1770#1771#0" expanded="true" />
-            <element signature="e#1826#1827#0" expanded="true" />
-            <element signature="e#1867#1868#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1797,23 +1741,252 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.1183262">
           <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/groovy/writer/CustomUserDetailsServiceTests.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57575756">
+        <state vertical-scroll-proportion="0.4870317">
           <caret line="27" column="71" selection-start-line="27" selection-start-column="71" selection-end-line="27" selection-end-column="71" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/writer/services/impl/CustomUserDetailsService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4848485">
+        <state vertical-scroll-proportion="0.0">
           <caret line="30" column="93" selection-start-line="30" selection-start-column="93" selection-end-line="30" selection-end-column="93" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/writer/configuration/CustomUserDetailsSecurityConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+          <folding>
+            <element signature="e#1143#1144#0" expanded="true" />
+            <element signature="e#1196#1197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/writer/controllers/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/writer/services/impl/NoteServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="70" column="56" selection-start-line="70" selection-start-column="56" selection-end-line="70" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/writer/services/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#993#994#0" expanded="true" />
+            <element signature="e#1059#1060#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/writer/services/InspirationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/writer/services/NoteService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="79" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/images/notepage.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/css/hamburgers.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34920636">
+          <caret line="503" column="5" selection-start-line="503" selection-start-column="5" selection-end-line="503" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.961538">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/includes/nav-sidebar.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-65.15385">
+          <caret line="186" column="0" selection-start-line="186" selection-start-column="0" selection-end-line="186" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/writer/domain/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/writer/configuration/MongoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.555555">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/writer/configuration/core/SpringSecurityInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/writer/bootstrap/SeedData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42424244">
+          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+          <folding>
+            <element signature="docComment;class#SeedData#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/writer/configuration/RepositoryConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3783784">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/writer/configuration/core/SpringMvcInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27272728">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/writer/rest/NoteRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="76" selection-start-line="37" selection-start-column="76" selection-end-line="37" selection-end-column="76" />
+          <folding>
+            <element signature="docComment;class#NoteRest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42712843">
+          <caret line="307" column="32" selection-start-line="307" selection-start-column="32" selection-end-line="307" selection-end-column="32" />
+          <folding>
+            <element signature="e#203#346#0" expanded="false" />
+            <element signature="e#427#475#0" expanded="false" />
+            <element signature="e#524#1085#0" expanded="false" />
+            <element signature="e#677#772#0" expanded="false" />
+            <element signature="e#778#871#0" expanded="false" />
+            <element signature="e#1136#1542#0" expanded="false" />
+            <element signature="e#1548#1583#0" expanded="false" />
+            <element signature="e#1614#1955#0" expanded="false" />
+            <element signature="e#1650#1906#0" expanded="false" />
+            <element signature="e#1803#1871#0" expanded="false" />
+            <element signature="e#1912#1949#0" expanded="false" />
+            <element signature="e#1978#2016#0" expanded="false" />
+            <element signature="e#2164#2309#0" expanded="false" />
+            <element signature="e#2239#2301#0" expanded="false" />
+            <element signature="e#2356#2405#0" expanded="false" />
+            <element signature="e#2452#2903#0" expanded="false" />
+            <element signature="e#2611#2675#0" expanded="false" />
+            <element signature="e#2831#2895#0" expanded="false" />
+            <element signature="e#2927#2958#0" expanded="false" />
+            <element signature="e#2996#3026#0" expanded="false" />
+            <element signature="e#3057#3290#0" expanded="false" />
+            <element signature="e#3313#3363#0" expanded="false" />
+            <element signature="e#3390#3420#0" expanded="false" />
+            <element signature="e#3442#3494#0" expanded="false" />
+            <element signature="e#3522#4573#0" expanded="false" />
+            <element signature="e#3642#3946#0" expanded="false" />
+            <element signature="e#3823#3936#0" expanded="false" />
+            <element signature="e#4055#4565#0" expanded="false" />
+            <element signature="e#4110#4553#0" expanded="false" />
+            <element signature="e#4596#4624#0" expanded="false" />
+            <element signature="e#4690#5512#0" expanded="false" />
+            <element signature="e#4779#5091#0" expanded="false" />
+            <element signature="e#4968#5081#0" expanded="false" />
+            <element signature="e#5194#5503#0" expanded="false" />
+            <element signature="e#5536#5554#0" expanded="false" />
+            <element signature="e#5595#5675#0" expanded="false" />
+            <element signature="e#5710#6453#0" expanded="false" />
+            <element signature="e#5742#6447#0" expanded="false" />
+            <element signature="e#5844#6251#0" expanded="false" />
+            <element signature="e#6112#6237#0" expanded="false" />
+            <element signature="e#6358#6435#0" expanded="false" />
+            <element signature="e#6475#6495#0" expanded="false" />
+            <element signature="e#6538#7181#0" expanded="false" />
+            <element signature="e#6587#6956#0" expanded="false" />
+            <element signature="e#6833#6946#0" expanded="false" />
+            <element signature="e#7055#7120#0" expanded="false" />
+            <element signature="e#7205#7229#0" expanded="false" />
+            <element signature="e#7272#9383#0" expanded="false" />
+            <element signature="e#7283#7312#0" expanded="false" />
+            <element signature="e#7360#7513#0" expanded="false" />
+            <element signature="e#7558#7711#0" expanded="false" />
+            <element signature="e#7784#8094#0" expanded="false" />
+            <element signature="e#8128#9375#0" expanded="false" />
+            <element signature="e#8153#8492#0" expanded="false" />
+            <element signature="e#8554#8926#0" expanded="false" />
+            <element signature="e#8743#8866#0" expanded="false" />
+            <element signature="e#8982#9363#0" expanded="false" />
+            <element signature="e#9437#9532#0" expanded="false" />
+            <element signature="e#10273#10740#0" expanded="false" />
+            <element signature="e#10468#10548#0" expanded="false" />
+            <element signature="e#10649#10729#0" expanded="false" />
+            <element signature="e#10810#10840#0" expanded="false" />
+            <element signature="e#10848#10868#0" expanded="false" />
+            <element signature="e#10916#12246#0" expanded="false" />
+            <element signature="e#11084#11400#0" expanded="false" />
+            <element signature="e#11277#11390#0" expanded="false" />
+            <element signature="e#11509#12238#0" expanded="false" />
+            <element signature="e#11549#12103#0" expanded="false" />
+            <element signature="e#11608#12087#0" expanded="false" />
+            <element signature="e#12109#12228#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
